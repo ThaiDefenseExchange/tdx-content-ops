@@ -28,14 +28,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    media:
-      type: ImageBlock
-      url: /images/tdx-logo-test-white.svg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
