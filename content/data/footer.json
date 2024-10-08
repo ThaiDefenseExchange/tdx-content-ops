@@ -6,12 +6,6 @@
             "url": "https://github.com/netlify",
             "icon": "github",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [],
