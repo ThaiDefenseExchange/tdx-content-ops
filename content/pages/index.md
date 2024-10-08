@@ -30,7 +30,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/tdx-logo-test-white.svg
       altText: Image alt text placeholder
       elementId: ''
       styles:
