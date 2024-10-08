@@ -1,13 +1,6 @@
 {
     "text": "",
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Copyright © 2024 THAI DEFENSE EXCHANGE\n",
     "colors": "bg-light-fg-dark",
