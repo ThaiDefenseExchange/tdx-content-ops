@@ -13,13 +13,6 @@ sections:
     text: |+
       <div style="text-align: center">[Contact us](google.com)</div>
 
-    badge:
-      label: Welcome to
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
