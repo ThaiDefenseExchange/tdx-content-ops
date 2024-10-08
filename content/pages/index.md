@@ -42,10 +42,10 @@ sections:
             - mr-0
             - mb-0
           padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
+            - pt-10
+            - pl-10
+            - pb-10
+            - pr-10
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
