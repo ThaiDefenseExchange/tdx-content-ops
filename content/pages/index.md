@@ -10,8 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |
-      [Contact us](google.com)
+    text: |+
+      <div style="text-align: center">[Contact us](google.com)</div>
+
     badge:
       label: Welcome to
       color: text-dark
