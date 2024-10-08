@@ -36,6 +36,8 @@ sections:
       styles:
         self:
           borderRadius: medium
+          margin:
+            - mt-10
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
