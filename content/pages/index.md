@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |+
-      <div style="text-align: center">[Contact us](google.com)</div>
+      <div style="text-align: center">[CONTACT US](google.com)</div>
 
     colors: bg-light-fg-dark
     styles:
