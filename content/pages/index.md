@@ -17,7 +17,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     badge:
       label: Key Benefits
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
