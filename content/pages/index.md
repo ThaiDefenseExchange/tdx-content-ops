@@ -16,7 +16,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/tdx-logo-test-white.png
+      url: /images/lgo-tdx-white.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
