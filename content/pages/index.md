@@ -2,29 +2,22 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: 'Thai Defence Exchange '
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
+  - subtitle: ''
     text: |+
       <div style="text-align: center">[CONTACT US](google.com)</div>
 
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: col
+        flexDirection: col-reverse
         justifyContent: center
       subtitle:
         textAlign: center
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/tdx-logo-test-white.png
-      altText: Image alt text placeholder
+      url: /images/lgo-tdx-white.png
+      altText: Thai Defence Exchange
       elementId: ''
       styles:
         self:
@@ -35,10 +28,10 @@ sections:
             - mr-0
             - mb-0
           padding:
-            - pt-10
-            - pl-10
-            - pb-10
-            - pr-10
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
           borderWidth: 0
 seo:
   metaTitle: Home - Demo site
