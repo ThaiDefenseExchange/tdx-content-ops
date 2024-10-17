@@ -17,7 +17,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/lgo-tdx-white.png
-      altText: Image alt text placeholder
+      altText: Thai Defence Exchange
       elementId: ''
       styles:
         self:
