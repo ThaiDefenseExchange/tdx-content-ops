@@ -2,14 +2,7 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: 'Thai Defence Exchange '
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
+  - subtitle: ''
     text: |+
       <div style="text-align: center">[CONTACT US](google.com)</div>
 
