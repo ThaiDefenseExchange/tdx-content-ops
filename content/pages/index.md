@@ -9,7 +9,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: col-reverse
+        flexDirection: col
         justifyContent: center
       subtitle:
         textAlign: center
